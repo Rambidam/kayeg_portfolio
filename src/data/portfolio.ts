@@ -1,7 +1,6 @@
 export const siteConfig = {
   name: "Kaye Gualingco",
-  title: "Shopify & Web Developer",
-  subtitle: "E-commerce & Web Specialist",
+  title: "Data Entry Specialist | Virtual Assistant",
   tagline:
     "Building clean, responsive websites and customized Shopify stores that help businesses grow online.",
   email: "kayejover18@gmail.com",
