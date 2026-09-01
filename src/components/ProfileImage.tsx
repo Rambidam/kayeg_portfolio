@@ -23,7 +23,7 @@ export default function ProfileImage() {
 
   return (
     <Image
-      src="/profile.jpg"
+      src="/profile.png"
       alt={siteConfig.name}
       fill
       className="object-cover object-top"
